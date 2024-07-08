@@ -1,2 +1,4 @@
 # vmehta
-My personal repository
+##**About me** 👋
+###*QA Engineer* 💻🛠️
+###*B7-Anaheim* 🏢🕖
